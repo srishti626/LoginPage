@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyLoginPage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_back">Welcome \nBack!\n</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="sign_in_wit">sign in with</string>
+    <string name="sign_in">Sign In</string>
+    <string name="back">Back</string>
+    <string name="forget_pass">Forgot\npassword?</string>
+    <string name="we_will_send_you_a_message_to_set_or_rest_your_n_new_password">* We will send you a message to set or rest your \n new password</string>
+    <string name="send_code">Send Code</string>
+    <string name="create_an_a">Create an \naccount</string>
+    <string name="by_clicking">By clicking the Register button, you agree to \n the public offer</string>
+    <string name="register">Register</string>
+    <string name="sign_up_with">sign up with</string>
+
+</resources>
+
